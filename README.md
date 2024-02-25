@@ -5,4 +5,5 @@ A curated list of resources one can use to learn more about music.  I will updat
 
 - [Resources](#resources)
 - [Instruments](#instruments)
+  - [Bass Guitar](./Instruments/Bass%20Guitar/README.md)
   - [Nylon Guitar](./Instruments/Nylon%20Guitar/README.md)
